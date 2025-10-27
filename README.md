@@ -27,10 +27,11 @@ It provides a **composite market score**, dynamic visualizations, and interactiv
 ## 💡 Methodology
 
 The dashboard calculates a **Market Score**:
-```text
+
 Market Score = w₁(Momentum) + w₂(-SPX Volatility) + w₃(-VIX Volatility) + w₄(-Corr(SPX, VIX)) + w₅(Breadth)
 
 Market Mind is part of a larger framework of data-driven systems I’m building, connecting finance, behavior, and systems design. From markets to orbital habitats, it’s all about modeling how systems behave under uncertainty.
 
+MIT License © 2025 Aditya Upadhyay
 
 
