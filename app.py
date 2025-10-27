@@ -1,4 +1,4 @@
-# Market Mind — Streamlit Dashboard (with Live Market Mood Gauge)
+# Market Mind = Streamlit Dashboard (with Live Market Mood Gauge)
 # Run: python -m streamlit run app.py
 
 import numpy as np
@@ -367,4 +367,5 @@ with tab4:
     st.download_button("Download CSV", data=csv, file_name="market_mind_export.csv", mime="text/csv")
 
 st.caption("Data source: Yahoo Finance via yfinance. Educational/analytical use only; not investment advice.")
+
 
