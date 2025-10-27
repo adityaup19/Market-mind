@@ -1,4 +1,4 @@
-# 🧠 Market Mind — Live Market Regime Dashboard
+# 🧠 Market Mind - A Live Market Regime Dashboard
 
 **Market Mind** is an interactive **Streamlit web dashboard** that tracks and visualizes the *current market mood* — identifying **Risk-On / Risk-Off regimes** using S&P 500 price data, volatility, and breadth signals.
 
@@ -35,4 +35,5 @@ It provides a **composite market score**, dynamic visualizations, and interactiv
 The dashboard calculates a **Market Score**:
 ```text
 Market Score = w₁(Momentum) + w₂(-SPX Volatility) + w₃(-VIX Volatility) + w₄(-Corr(SPX, VIX)) + w₅(Breadth)
+
 
