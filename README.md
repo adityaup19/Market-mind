@@ -4,8 +4,7 @@
 
 It provides a **composite market score**, dynamic visualizations, and interactive controls to help users analyze market behavior and detect trend shifts.
 
-🌐 **Live Demo:** [https://market-mind-c8pruazxg3lwpu6cbns2t.streamlit.app](https://market-mind-c8pruazxg3lwpu6cbns2t.streamlit.app)
-
+🌐 **Live Demo:** https://market-mind-c8rpuazxg3lwpu6cbnsn2t.streamlit.app/
 ---
 
 ## 🚀 Features
@@ -36,3 +35,4 @@ It provides a **composite market score**, dynamic visualizations, and interactiv
 The dashboard calculates a **Market Score**:
 ```text
 Market Score = w₁(Momentum) + w₂(-SPX Volatility) + w₃(-VIX Volatility) + w₄(-Corr(SPX, VIX)) + w₅(Breadth)
+
